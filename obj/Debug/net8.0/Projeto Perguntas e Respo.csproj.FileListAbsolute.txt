@@ -1,0 +1,14 @@
+C:\Users\32789624\Documents\Projeto Perguntas e Respo\bin\Debug\net8.0\Projeto Perguntas e Respo.exe
+C:\Users\32789624\Documents\Projeto Perguntas e Respo\bin\Debug\net8.0\Projeto Perguntas e Respo.deps.json
+C:\Users\32789624\Documents\Projeto Perguntas e Respo\bin\Debug\net8.0\Projeto Perguntas e Respo.runtimeconfig.json
+C:\Users\32789624\Documents\Projeto Perguntas e Respo\bin\Debug\net8.0\Projeto Perguntas e Respo.dll
+C:\Users\32789624\Documents\Projeto Perguntas e Respo\bin\Debug\net8.0\Projeto Perguntas e Respo.pdb
+C:\Users\32789624\Documents\Projeto Perguntas e Respo\obj\Debug\net8.0\Projeto Perguntas e Respo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\32789624\Documents\Projeto Perguntas e Respo\obj\Debug\net8.0\Projeto Perguntas e Respo.AssemblyInfoInputs.cache
+C:\Users\32789624\Documents\Projeto Perguntas e Respo\obj\Debug\net8.0\Projeto Perguntas e Respo.AssemblyInfo.cs
+C:\Users\32789624\Documents\Projeto Perguntas e Respo\obj\Debug\net8.0\Projeto Perguntas e Respo.csproj.CoreCompileInputs.cache
+C:\Users\32789624\Documents\Projeto Perguntas e Respo\obj\Debug\net8.0\Projeto Perguntas e Respo.dll
+C:\Users\32789624\Documents\Projeto Perguntas e Respo\obj\Debug\net8.0\refint\Projeto Perguntas e Respo.dll
+C:\Users\32789624\Documents\Projeto Perguntas e Respo\obj\Debug\net8.0\Projeto Perguntas e Respo.pdb
+C:\Users\32789624\Documents\Projeto Perguntas e Respo\obj\Debug\net8.0\Projeto Perguntas e Respo.genruntimeconfig.cache
+C:\Users\32789624\Documents\Projeto Perguntas e Respo\obj\Debug\net8.0\ref\Projeto Perguntas e Respo.dll
