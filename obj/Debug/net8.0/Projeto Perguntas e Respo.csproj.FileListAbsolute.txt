@@ -12,3 +12,4 @@ C:\Users\32789624\Documents\Projeto Perguntas e Respo\obj\Debug\net8.0\refint\Pr
 C:\Users\32789624\Documents\Projeto Perguntas e Respo\obj\Debug\net8.0\Projeto Perguntas e Respo.pdb
 C:\Users\32789624\Documents\Projeto Perguntas e Respo\obj\Debug\net8.0\Projeto Perguntas e Respo.genruntimeconfig.cache
 C:\Users\32789624\Documents\Projeto Perguntas e Respo\obj\Debug\net8.0\ref\Projeto Perguntas e Respo.dll
+C:\Users\32789624\Documents\Projeto Perguntas e Respo\obj\Debug\net8.0\Projeto Perguntas e Respo.sourcelink.json

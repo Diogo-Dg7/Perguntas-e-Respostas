@@ -1,41 +1,33 @@
-﻿using System.Runtime.InteropServices;
-using Projeto_Perguntas_e_Respo;
+﻿﻿using Projeto_Perguntas_e_Respo;
 
-//Variaveis
-bool Continuar = true;
 Pergunta Respostas = new Pergunta();
-Respostas.Contador = 0;
-Respostas.Realista = 0;
-Respostas.Investigativo = 0;
-Respostas.Artístico = 0;
-Respostas.Social = 0;
-Respostas.Empreendedor = 0;
-Respostas.Convencional = 0;
-
 
 Console.WriteLine("Olá, Vamos para as perguntas!");
-Console.WriteLine("Descubra quais cursos combinam com você!");
+Console.WriteLine("Descubra quais cursos combinam com você!\n");
 
-
-while (Continuar)
-{
-    Respostas.Perguntas();
-    Respostas.Contador++;
-
-    Continuar = false;
-}
-
+// Executa EXATAMENTE as 24 perguntas
 Respostas.Perguntas();
-// Descobre quais categorias ficaram no topo
+
+// Descobre as categorias com maior pontuação
 List<int> maisEscolhidas = Respostas.DescobrirMaisEscolhidas();
 
-// Agora chama corretamente o método
+// Busca os cursos correspondentes
 List<string> cursos = Respostas.QualEscolha(maisEscolhidas);
 
 // Exibe o resultado
 Console.WriteLine("\nRESULTADO — Cursos recomendados:");
+
 foreach (var curso in cursos)
 {
     Console.WriteLine("- " + curso);
 }
 
+// Exibe categorias empatadas
+Console.WriteLine("\nCategorias mais fortes:");
+
+string[] nomes = { "Realista", "Investigativo", "Artístico", "Social", "Empreendedor", "Convencional" };
+
+foreach (int indice in maisEscolhidas)
+{
+    Console.WriteLine("- " + nomes[indice]);
+}
